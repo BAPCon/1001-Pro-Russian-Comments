@@ -1,3 +1,5 @@
+# 1001 Pro-Russian (and anti-West) Comments
+
 This repository contains a dataset of 1001 pro-Russian comments sourced from various YouTube videos across different topics and channels. The comments were collected manually and filtered to ensure they represent a clear pro-Russian viewpoint.
 
 ## Purpose
