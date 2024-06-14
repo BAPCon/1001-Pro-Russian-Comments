@@ -10,7 +10,7 @@ The dataset can be used for various analyses, including:
 - Content analysis and thematic analysis
 - Identifying patterns and trends in pro-Russian rhetoric
 - Training and evaluating machine learning models for natural language processing tasks
-- 
+  
 ### Format
 The dataset is provided as `json` (array of strings) and `txt` (lines).
 
@@ -24,7 +24,7 @@ We are actively working on expanding this dataset and adding more categories of 
 
 - Pro-West comments: A collection of comments expressing pro-Western sentiments
 - Neutral comments: A collection of comments that are neither pro-Russian nor pro-West
-- 
+  
 These additional datasets will be added to this repository in the future.
 
 ### Disclaimer
